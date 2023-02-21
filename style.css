@@ -1,3 +1,8 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; /*limitando o limite da caixa à borda*/
+}
 html{
 	height: 100%;
 }
