@@ -35,9 +35,12 @@ img {
 }
 
 .container {
-	width: 30%;
-	border: 2px solid red;
-  	border-radius: 5px;
+	width: 90%;
+	border: 2px solid;
+  	border-radius: 10px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
 }
 }
 
