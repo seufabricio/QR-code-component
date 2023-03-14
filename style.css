@@ -9,7 +9,7 @@ html{
 
 body {
 	
-	min-height: 100hv;
+	min-height: 100%;
 	display: flex;
 	justify-content: center;
 	align-items: center;
